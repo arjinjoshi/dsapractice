@@ -321,7 +321,7 @@ int main()
 //             cout << " ";
 //         }
 //         // Star
-//         for (int col = 0; col < row; col += 1)
+//         for (int col = 0; col < row+1; col += 1)
 //         {
 //             cout << "* ";
 //         }
